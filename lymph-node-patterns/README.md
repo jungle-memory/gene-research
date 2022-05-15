@@ -2,15 +2,17 @@
 
 Researchers at the King's College of London are looking for patterns in lymph node statistics to improve breast cancer screening and diagnosis.
 
-They need your help. 
+## What They Need
+
+They need your help identifying germinal centers in images of lymph nodes. You look at images of real slides of cells and find the centers.
 
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns.png)
 
 The researchers have tons of images of slides containing cells from breast cancer patients. You can help by reviewing the images looking for germinal centers in lymph nodes.
 
-It is easy. 
+It is easy, impactful, and you can spend as much time as you want on it. 
 
-They give you an image.
+They give you an image and clear instructions on what to do.
 
 ![citizen-science-lymph-node-patterns-1](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-1.png)
 
@@ -28,7 +30,9 @@ The researchers will use your work to help improve their AI model that helps ide
 
 ## Volunteer
 
-Check out our work volunteering on the [lymph node pattern](http://junglememory.com/gene-research/code-samples/lymph-node-patterns/1_identify-lymph-nodes) project and learn how to do it yourself. 
+Check out our work volunteering on the [lymph node pattern](http://junglememory.com/gene-research/code-samples/lymph-node-patterns/1_identify-lymph-nodes) project.
+
+See examples of what we did and learn how to do it yourself. 
 
 ## Learn About Genetic Research
 
