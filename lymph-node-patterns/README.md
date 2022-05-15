@@ -8,6 +8,14 @@ They need your help.
 
 The researchers have tons of images of slides containing cells from breast cancer patients. You can help by reviewing the images looking for germinal centers in lymph nodes.
 
+It is easy. They give you an image.
+
+![citizen-science-lymph-node-patterns-1](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-1.png)
+
+You outline each germinal center in the image and submit it. You do it all on your computer.
+
+![citizen-science-lymph-node-patterns-2](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-2.png)
+
 Their research hypothesis is that if a lymph node has many germinal center, then the patient is experiencing an active immune response. 
 
 The research is relevant because breast cancer patients who have lymph nodes containing many germinal centers generally have a better prognosis.
