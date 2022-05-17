@@ -59,18 +59,13 @@ Read about real stories of women diagnosed and treated for breast cancer.
 
 Here are examples of our work. We are not affiliated with the researchers and nobody has approved our work as being mistake-free. But we did our best to follow the instructions.
 
-![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes.png)
-![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-1.png)
-![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-2.png)
-![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-3.png)
+![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes.png) ![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-1.png) 
+![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-2.png) ![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-3.png)
 ![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-4.png)
 
-![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes.png)
-![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes-1.png)
-![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes-2.png)
-![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes-3.png)
+![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes.png) ![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes-1.png) 
+![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes-2.png) ![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes-3.png)
 
-![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns.png)
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-1.png)
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-2.png)
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-3.png)
