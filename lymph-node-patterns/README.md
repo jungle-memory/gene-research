@@ -46,6 +46,12 @@ Start looking for lymph nodes on the [Classify Page](https://www.zooniverse.org/
 
 Check out [our samples below](#node-pattern-examples).
 
+## Raise Awareness
+
+Share your work. Post what you did on [Twitter](https://twitter.com/jungle_memory), [Facebook](https://www.facebook.com/junglememory), [Instagram](https://www.instagram.com/jungle_memory), [YouTube](https://www.youtube.com/channel/UCcQxgMqErK5zRT8_8KzkM7g), and others. 
+
+Tag our account and add hashtags for #citizenscience #breastcancerawareness #lymphnodepatterns #junglememory and other relevant tags.
+
 ## Learn About Genetic Research
 
 Learn more about genetic research for diagnosing and treating diseases.
