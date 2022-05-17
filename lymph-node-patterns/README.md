@@ -32,9 +32,17 @@ How cool is that?! You look at images of real slides of cells and find germinal 
 
 ## Volunteer
 
-Check out our work volunteering on the [lymph node pattern](http://junglememory.com/gene-research/code-samples/lymph-node-patterns/1_identify-lymph-nodes) project.
+Register up for a free account at [Zooniverse](https://www.zooniverse.org/). Click on the register button and complete the form.
 
-See examples of what we did and learn how to do it yourself. 
+![zooniverse](https://blog.junglememory.com/wp-content/uploads/2022/05/zooniverse-research-people.png)
+
+Go to [Node Code Breakers: looking for patterns in lymph nodes](https://www.zooniverse.org/projects/effeli/node-code-breakers-looking-for-patterns-in-lymph-nodes/classify).
+
+Read the [About Page](https://www.zooniverse.org/projects/effeli/node-code-breakers-looking-for-patterns-in-lymph-nodes/about/research).
+
+Start looking for lymph nodes on the [Classify Page](https://www.zooniverse.org/projects/effeli/node-code-breakers-looking-for-patterns-in-lymph-nodes/classify). Review the tutorial and then start the task.
+
+Check out [our samples below](#node-pattern-examples).
 
 ## Learn About Genetic Research
 
@@ -46,3 +54,23 @@ Read about real stories of women diagnosed and treated for breast cancer.
 
 [![Nipples-Optional-Memoir-brca-gene](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08VM1KN5V&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://www.amazon.com/Nipples-Optional-Memoir-ordinary-unordinary/dp/B08VM1KN5V?crid=2K4FUTFBOQEQA&keywords=nipples+optional&qid=1652624154&s=books&sprefix=nipples+optiona%2Cstripbooks%2C209&sr=1-1&linkCode=ll1&tag=jungle-memory-20&linkId=920f3416203a6963d7e1473c5682fa97&language=en_US&ref_=as_li_ss_tl) [![Breast-Cancer--pretty-what-changes-impossible](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0385520417&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://www.amazon.com/Pretty-What-Changes-Impossible-Choices/dp/0385520417?crid=205WNXTLON29M&keywords=breast+cancer+gene&qid=1652622315&s=books&sprefix=breast+cancer+gene%2Cstripbooks%2C193&sr=1-4&linkCode=ll1&tag=jungle-memory-20&linkId=bdf3693336d04ff6e7623de6328cba7b&language=en_US&ref_=as_li_ss_tl) [![Previvors-Facing-Breast-Life-Changing-Decisions](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=158333405X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jungle-memory-20&language=en_US)](https://www.amazon.com/Previvors-Facing-Breast-Life-Changing-Decisions/dp/158333405X?crid=205WNXTLON29M&keywords=breast+cancer+gene&qid=1652622315&s=books&sprefix=breast+cancer+gene%2Cstripbooks%2C193&sr=1-5&linkCode=ll1&tag=jungle-memory-20&linkId=7b313d1a33df1a252c57c9e1c7e06752&language=en_US&ref_=as_li_ss_tl)   
 
+
+## Node Pattern Examples
+
+Here are examples of our work. We are not affiliated with the researchers and nobody has approved our work as being mistake-free. But we did our best to follow the instructions.
+
+![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes.png)
+![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-1.png)
+![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-2.png)
+![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-3.png)
+![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-4.png)
+
+![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes.png)
+![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes-1.png)
+![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes-2.png)
+![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes-3.png)
+
+![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns.png)
+![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-1.png)
+![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-2.png)
+![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-3.png)
