@@ -42,6 +42,8 @@ Read the [About Page](https://www.zooniverse.org/projects/effeli/node-code-break
 
 Start looking for lymph nodes on the [Classify Page](https://www.zooniverse.org/projects/effeli/node-code-breakers-looking-for-patterns-in-lymph-nodes/classify). Review the tutorial and then start the task.
 
+![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-3.png)
+
 Check out [our samples below](#node-pattern-examples).
 
 ## Learn About Genetic Research
@@ -64,7 +66,6 @@ Here are examples of our work. We are not affiliated with the researchers and no
 ![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-1.png) 
 ![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-2.png) 
 ![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-3.png)
-![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-4.png)
 
 ![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes.png) 
 ![patterns-in-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/patterns-in-lymph-nodes-1.png) 
@@ -73,4 +74,4 @@ Here are examples of our work. We are not affiliated with the researchers and no
 
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-1.png)
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-2.png)
-![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-3.png)
+![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-4.png)
