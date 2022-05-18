@@ -2,22 +2,23 @@
 
 Researchers at the King's College of London are looking for patterns in lymph node statistics to improve breast cancer screening and diagnosis.
 
-## What They Need
+## Research Overview
 
 The researchers need your help identifying germinal centers in images of lymph nodes. 
 
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns.png)
 
-
 A germinal center is a microstructure that plays an important role during an immune response. They are where B cells go for extreme proliferation and differentiation.
 
 The result is long-lived antibody-secreting plasma cells and memory B cells. The long-living plasma cells help protect the body from infection even after the antigen is gone. If the antigen returns, the memory B cells mount an aggressive response.
 
-They predict that the number of germinal centers in lymph nodes can help identify breast cancer patients who are having an active immune response and therefore generally a better prognosis. The more germinal centers the better the prognosis.
+![germinal-center-lymph-node](https://blog.junglememory.com/wp-content/uploads/2022/05/germinal-center-lymph.png)
+
+The researchers predict that the number of germinal centers in lymph nodes can help identify breast cancer patients who are having an active immune response and therefore generally a better prognosis. The more germinal centers the better the prognosis.
 
 The research is relevant for diagnosing and treating breast cancer patients. Perhaps their research can be extended to other conditions, too.
 
-![germinal-center-lymph-node](https://blog.junglememory.com/wp-content/uploads/2022/05/germinal-center-lymph.png)
+## What They Need
 
 The researchers have tons of images of slides containing cells from breast cancer patients. You can help by reviewing the images looking for germinal centers in lymph nodes.
 
