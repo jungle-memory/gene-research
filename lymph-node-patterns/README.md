@@ -8,6 +8,8 @@ The researchers need your help identifying germinal centers in images of lymph n
 
 They predict that the number of germinal centers in lymph nodes can help identify breast cancer patients who are having an active immune response and therefore generally a better prognosis. The more germinal centers the better the prognosis.
 
+The research is relevant for diagnosing and treating breast cancer patients. Perhaps their research can be extended to other conditions, too.
+
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns.png)
 
 The researchers have tons of images of slides containing cells from breast cancer patients. You can help by reviewing the images looking for germinal centers in lymph nodes.
@@ -23,10 +25,6 @@ You outline each germinal center in the image and submit it.
 You do it all on your computer.
 
 ![citizen-science-lymph-node-patterns-2](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-2.png)
-
-Their research hypothesis is that if a lymph node has many germinal center, then the patient is experiencing an active immune response. 
-
-The research is relevant because breast cancer patients who have lymph nodes containing many germinal centers generally have a better prognosis.
 
 The researchers will use your work to help improve their AI model that helps identify and predict the prognosis for breast cancer patients.
 
