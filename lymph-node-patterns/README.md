@@ -28,13 +28,11 @@ They give you an image and clear instructions on what to do.
 
 ![citizen-science-lymph-node-patterns-1](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-1.png)
 
-You outline each germinal center in the image and submit it. 
-
-You do it all on your computer.
-
-![citizen-science-lymph-node-patterns-2](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-2.png)
+Outline each germinal center in the image and submit it. Do it all on your computer. 
 
 The researchers will use your work to help improve their AI model that helps identify and predict the prognosis for breast cancer patients.
+
+![citizen-science-lymph-node-patterns-2](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-2.png)
 
 How cool is that?! You look at images of real slides of cells and find germinal centers.
 
