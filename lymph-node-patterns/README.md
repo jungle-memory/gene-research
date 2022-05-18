@@ -52,8 +52,6 @@ Here are the steps to start volunteering on this project. It takes only a few mi
 
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-3.png)
 
-Check out [our samples below](#node-pattern-examples).
-
 
 ## Learn About Genetic Research
 
