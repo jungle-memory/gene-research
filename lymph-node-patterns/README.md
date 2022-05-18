@@ -4,7 +4,9 @@ Researchers at the King's College of London are looking for patterns in lymph no
 
 ## What They Need
 
-They need your help identifying germinal centers in images of lymph nodes. 
+The researchers need your help identifying germinal centers in images of lymph nodes. 
+
+They predict that the number of germinal centers in lymph nodes can help identify breast cancer patients who are having an active immune response and therefore generally a better prognosis. The more germinal centers the better the prognosis.
 
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns.png)
 
