@@ -56,11 +56,6 @@ Here are the steps to start volunteering on this project. It takes only a few mi
 
 Check out [our samples below](#node-pattern-examples).
 
-## Raise Awareness
-
-Share your work. Post what you did on [Twitter](https://twitter.com/jungle_memory), [Facebook](https://www.facebook.com/junglememory), [Instagram](https://www.instagram.com/jungle_memory), [YouTube](https://www.youtube.com/channel/UCcQxgMqErK5zRT8_8KzkM7g), and others. 
-
-Tag our account and add hashtags for #citizenscience #breastcancerawareness #lymphnodepatterns #junglememory and other relevant tags.
 
 ## Learn About Genetic Research
 
@@ -91,3 +86,10 @@ Here are examples of our work. We are not affiliated with the researchers and no
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-1.png)
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-2.png)
 ![breast-cancer-lymph-nodes](https://blog.junglememory.com/wp-content/uploads/2022/05/breast-cancer-lymph-nodes-4.png)
+
+
+## Raise Awareness
+
+Share your work. Post what you did on [Twitter](https://twitter.com/jungle_memory), [Facebook](https://www.facebook.com/junglememory), [Instagram](https://www.instagram.com/jungle_memory), [YouTube](https://www.youtube.com/channel/UCcQxgMqErK5zRT8_8KzkM7g), and others. 
+
+Tag our account and add hashtags for #citizenscience #breastcancerawareness #lymphnodepatterns #junglememory and other relevant tags.
