@@ -40,15 +40,17 @@ How cool is that?! You look at images of real slides of cells and find germinal 
 
 ## Volunteer
 
-Register up for a free account at [Zooniverse](https://www.zooniverse.org/). Click on the register button and complete the form.
+Here are the steps to start volunteering on this project. It takes only a few minutes.
+
+1. Register up for a free account at [Zooniverse](https://www.zooniverse.org/). Click on the register button and complete the form.
 
 ![zooniverse](https://blog.junglememory.com/wp-content/uploads/2022/05/zooniverse-research-people.png)
 
-Go to [Node Code Breakers: looking for patterns in lymph nodes](https://www.zooniverse.org/projects/effeli/node-code-breakers-looking-for-patterns-in-lymph-nodes/classify).
+2. Go to [Node Code Breakers: looking for patterns in lymph nodes](https://www.zooniverse.org/projects/effeli/node-code-breakers-looking-for-patterns-in-lymph-nodes/classify).
 
-Read the [About Page](https://www.zooniverse.org/projects/effeli/node-code-breakers-looking-for-patterns-in-lymph-nodes/about/research).
+3. Read the [About Page](https://www.zooniverse.org/projects/effeli/node-code-breakers-looking-for-patterns-in-lymph-nodes/about/research).
 
-Start looking for lymph nodes on the [Classify Page](https://www.zooniverse.org/projects/effeli/node-code-breakers-looking-for-patterns-in-lymph-nodes/classify). Review the tutorial and then start the task.
+4. Start looking for lymph nodes on the [Classify Page](https://www.zooniverse.org/projects/effeli/node-code-breakers-looking-for-patterns-in-lymph-nodes/classify). Review the tutorial and then start the task.
 
 ![citizen-science-lymph-node-patterns](https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns-3.png)
 
