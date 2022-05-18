@@ -17,7 +17,7 @@ They predict that the number of germinal centers in lymph nodes can help identif
 
 The research is relevant for diagnosing and treating breast cancer patients. Perhaps their research can be extended to other conditions, too.
 
-![germinal-center-lymph-node]([https://blog.junglememory.com/wp-content/uploads/2022/05/citizen-science-lymph-node-patterns.png](https://blog.junglememory.com/wp-content/uploads/2022/05/germinal-center-lymph.png))
+![germinal-center-lymph-node](https://blog.junglememory.com/wp-content/uploads/2022/05/germinal-center-lymph.png)
 
 The researchers have tons of images of slides containing cells from breast cancer patients. You can help by reviewing the images looking for germinal centers in lymph nodes.
 
